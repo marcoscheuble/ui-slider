@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "angular": ">=1.0.0 <1.4.0",
-    "jquery-ui": "~1.10.x",
+    "jquery-ui": "~1.11.0",
     "jquery": ">= 1.9"
   }
 }
